@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my blog
 hello world! my github 欢迎大家登录！
 
 You can use the [editor on GitHub](https://github.com/xuhairuichina/xuhairuichina.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
