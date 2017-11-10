@@ -1,0 +1,14 @@
+- name: Software Engineer Keywords
+  keywords:
+      - Python
+      - C++
+      - Go
+      - Java
+
+- name: Data Mining
+  keywords:
+      - Feature Engineering
+      - Supervised Learning Model(LR, GBDT, CNN, RNN...)
+      - Unsupervised Learning (Clustering...)
+      - Social Network
+
