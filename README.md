@@ -1,7 +1,7 @@
 
 # Fork 指南
 
-我的个人博客：<https://jarlonyan.github.io>，欢迎 Star 和 Fork。按照下面的步骤，从零开始在github上搭建你自己的jekyll博客。
+我的个人博客：<https://xuhairuichina.github.io>，欢迎 Star 和 Fork。按照下面的步骤，从零开始在github上搭建你自己的jekyll博客。
 
 
 ## 1. 入门。
