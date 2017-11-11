@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About
-description: Jarlonyan
-keywords: Jarlonyan
+description: xuhairuichina
+keywords: xuhairuichina
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是Jarlonyan。
+我是xuhairuichina
 
-兴趣：数据挖掘、深度学习
+兴趣：机器学习、深度学习、推荐
 
 ## 联系
 
